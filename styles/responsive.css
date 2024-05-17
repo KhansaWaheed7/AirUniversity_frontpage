@@ -1,0 +1,126 @@
+
+@media (max-width: 768px) {
+    .navbar {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .navbar1 {
+        padding-top: 100px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-brand img {
+        width: 40px;
+        margin-right: 5px;
+    }
+
+    .nav-btn {
+        margin-left: 10px;
+        margin-top: 10px;
+        padding: 4px;
+    }
+
+    .section {
+        flex-direction: column;
+    }
+
+    .column {
+        flex-basis: 100%;
+    }
+
+    .card {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .card-btn {
+        padding: 5px;
+        margin-right: 5px;
+    }
+
+    .video {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .text-body-secondary {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .contact {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .slide-container {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar1 {
+        padding-top: 80px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-brand img {
+        width: 30px;
+        margin-right: 5px;
+    }
+
+    .nav-btn {
+        margin-left: 5px;
+        margin-top: 5px;
+        padding: 2px;
+    }
+
+    .section {
+        flex-direction: column;
+    }
+
+    .column {
+        flex-basis: 100%;
+    }
+
+    .card {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .card-btn {
+        padding: 2px;
+        margin-right: 2px;
+    }
+
+    .video {
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+
+    .text-body-secondary {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .contact {
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+
+    .slide-container {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        flex-direction: column;
+    }
+}
